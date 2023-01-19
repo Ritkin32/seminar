@@ -17,8 +17,6 @@ void FillTriangle(int[,] pas)  // метод, который заполняет 
          pas[i, j] = pas[i - 1, j - 1] + pas[i - 1, j];
 }   
       
-   
-
 
 void PrintTriangle(int[,] pas) //метод печати  
 {
@@ -26,19 +24,40 @@ void PrintTriangle(int[,] pas) //метод печати
   for (int i = 0; i < size; i++)
     {
      for (int j = 0; j < size; j++) 
-      if (pas[i, j] != 0)   // все что не нулевое мы печатать будем
+      if (pas[i, j] != 0)   // все что не нулевое мы печатать будем, можно закометить изменится внешний вид
           Console.Write($"{pas[i, j], cellWidth}");  
      Console.WriteLine();
     }
 }
 
- int row = 5;  // 5 строк
+
+
+
+ int row = 5;  // 5 количество строк
  int[,] pas = new int[row, row]; // массив
- int col = cellWidth * row;
+ int col = cellWidth * row; //определяю ширину ячейки  
 
 FillTriangle(pas);
 
 PrintTriangle(pas);
 
+//Console.Clear(); для равнобед треуг
+
 return;
+
+for (int i = 0; i < row; i++);   //равнобедренный треугол все ниже добавить
+//{
+   /// for (int j = 0; j <= i; j++)
+    //{
+   //    Console.SetCursorPosition(col, i + 1);  //col -начальное значениее
+      // if (pas[i, j] != 0) 
+    //  Console.Write($"{pas[i,j], 3}");//заменим цифру 3 на   (если эдлемент отличен от 0 мы его печатаем
+    //  col +=cellWidth * 2;
+     //  Console.WriteLine("*");
+   // }
+// col = cellWidth * row - cellWidth * (i + 1); //после вычисляем новое положение ячейки
+ //Console.WriteLine();
+//}
+
+
 
