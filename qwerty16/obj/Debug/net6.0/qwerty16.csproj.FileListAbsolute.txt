@@ -1,0 +1,15 @@
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\qwerty16.csproj.AssemblyReference.cache
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\qwerty16.GeneratedMSBuildEditorConfig.editorconfig
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\qwerty16.AssemblyInfoInputs.cache
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\qwerty16.AssemblyInfo.cs
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\qwerty16.csproj.CoreCompileInputs.cache
+C:\repozit\lektion_7\qwerty1\qwerty16\bin\Debug\net6.0\qwerty16.exe
+C:\repozit\lektion_7\qwerty1\qwerty16\bin\Debug\net6.0\qwerty16.deps.json
+C:\repozit\lektion_7\qwerty1\qwerty16\bin\Debug\net6.0\qwerty16.runtimeconfig.json
+C:\repozit\lektion_7\qwerty1\qwerty16\bin\Debug\net6.0\qwerty16.dll
+C:\repozit\lektion_7\qwerty1\qwerty16\bin\Debug\net6.0\qwerty16.pdb
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\qwerty16.dll
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\refint\qwerty16.dll
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\qwerty16.pdb
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\qwerty16.genruntimeconfig.cache
+C:\repozit\lektion_7\qwerty1\qwerty16\obj\Debug\net6.0\ref\qwerty16.dll
